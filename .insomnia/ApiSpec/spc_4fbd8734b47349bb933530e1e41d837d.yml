@@ -1,14 +1,14 @@
 _id: spc_4fbd8734b47349bb933530e1e41d837d
 type: ApiSpec
 parentId: wrk_e6f2e1c31ab642c69041479ba2c7f352
-modified: 1622569084459
+modified: 1622571252641
 created: 1620936438619
 fileName: my-spec.yaml
 contents: >
   openapi: "3.0.0"
 
   info:
-    title: Simple API overview- with an update updates. This is an update I made.
+    title: Simple API overview- with an update updates. This is an update I made. And one more update
     version: 2.0.0
   paths:
     /:
